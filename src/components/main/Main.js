@@ -105,7 +105,7 @@ function Main() {
                                 </Col>
                     <Col lg={6} md={6} sm={8} xs={8} className="position-fixed pt-2 theCol">
                         <img src={thePic} className="img-fluid" />
-                        <h3>To Upload an Image Please Enter a url</h3>
+                        <h3>To Upload Image Please Enter An url</h3>
                         <FloatingLabel
                             controlId="floatingInput"
                             label="Enter url Here"
